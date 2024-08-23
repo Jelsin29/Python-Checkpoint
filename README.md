@@ -53,7 +53,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Credits
 
-"The Asylum in the Woods" was created by [Your Name/Username] as part of the Codedex Python course. The game is inspired by various works in the psychological horror genre and demonstrates the Python skills learned in the first four chapters of The Legend of Python.
+"The Asylum in the Woods" was created by Jelsin Sanchez as part of the Codedex Python course. The game is inspired by various works in the psychological horror genre and demonstrates the Python skills learned in the first four chapters of The Legend of Python.
 
 ## Contact
 
